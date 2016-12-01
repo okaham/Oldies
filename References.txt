@@ -1,0 +1,17 @@
+I asked Professor Baruch on how to fix and input issue
+
+I based some of the character names from a game called Archeage
+
+I referenced some conceptual RPG knowledge from Final Fantasy
+
+I got help from my friend Alex on how to call a function from another class.
+
+I asked Omer on how to instantiate an Array
+
+DingFeng told me to add and extra '=' to my boolean parameter
+
+DingFeng fixed my code where I couldn't call up a boolean, and adjusted it so that my function would take the method allDead()
+
+DingFeng fixed my code where the game would not end
+
+Omer suggested I add a scan.nextLine() to make the compiler prompt the user to input something
